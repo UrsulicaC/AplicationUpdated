@@ -302,6 +302,7 @@ Public Class OracleConn
         'declare parameters
 
         'Add description for procedure
+'New description not really needed - but welcome
         Oracle_CMD = New OracleCommand()
 
         'declare the stored procedure
