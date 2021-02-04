@@ -172,7 +172,7 @@ Partial Class Main
         Me.Button4.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Button4.Location = New System.Drawing.Point(3, 47)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(216, 162)
+        Me.Button4.Size = New System.Drawing.Size(217, 162)
         Me.Button4.TabIndex = 7
         Me.Button4.TabStop = False
         Me.Button4.Text = "BAD"
@@ -185,7 +185,7 @@ Partial Class Main
         Me.TextBox1.Location = New System.Drawing.Point(3, 17)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.ReadOnly = True
-        Me.TextBox1.Size = New System.Drawing.Size(222, 38)
+        Me.TextBox1.Size = New System.Drawing.Size(221, 38)
         Me.TextBox1.TabIndex = 8
         Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
@@ -203,7 +203,7 @@ Partial Class Main
         '
         Me.TextBox2.Dock = System.Windows.Forms.DockStyle.Fill
         Me.TextBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox2.Location = New System.Drawing.Point(101, 3)
+        Me.TextBox2.Location = New System.Drawing.Point(102, 3)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.ReadOnly = True
         Me.TextBox2.Size = New System.Drawing.Size(50, 31)
@@ -218,7 +218,7 @@ Partial Class Main
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(3, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(92, 38)
+        Me.Label4.Size = New System.Drawing.Size(93, 38)
         Me.Label4.TabIndex = 11
         Me.Label4.Text = "DefProd"
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -226,7 +226,7 @@ Partial Class Main
         'Panel1
         '
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.Panel1.Location = New System.Drawing.Point(157, 3)
+        Me.Panel1.Location = New System.Drawing.Point(158, 3)
         Me.Panel1.Name = "Panel1"
         Me.Panel1.Size = New System.Drawing.Size(56, 32)
         Me.Panel1.TabIndex = 12
@@ -258,7 +258,7 @@ Partial Class Main
         Me.TextBox3.Location = New System.Drawing.Point(3, 77)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.ReadOnly = True
-        Me.TextBox3.Size = New System.Drawing.Size(222, 38)
+        Me.TextBox3.Size = New System.Drawing.Size(221, 38)
         Me.TextBox3.TabIndex = 15
         Me.TextBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
@@ -269,7 +269,7 @@ Partial Class Main
         Me.TextBox4.Location = New System.Drawing.Point(3, 137)
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.ReadOnly = True
-        Me.TextBox4.Size = New System.Drawing.Size(222, 38)
+        Me.TextBox4.Size = New System.Drawing.Size(221, 38)
         Me.TextBox4.TabIndex = 16
         Me.TextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
@@ -280,7 +280,7 @@ Partial Class Main
         Me.TextBox5.Location = New System.Drawing.Point(3, 197)
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.ReadOnly = True
-        Me.TextBox5.Size = New System.Drawing.Size(222, 38)
+        Me.TextBox5.Size = New System.Drawing.Size(221, 38)
         Me.TextBox5.TabIndex = 17
         Me.TextBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
@@ -300,7 +300,7 @@ Partial Class Main
         Me.Label5.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label5.Location = New System.Drawing.Point(3, 60)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(222, 14)
+        Me.Label5.Size = New System.Drawing.Size(221, 14)
         Me.Label5.TabIndex = 19
         Me.Label5.Text = "Part Number"
         '
@@ -310,7 +310,7 @@ Partial Class Main
         Me.Label6.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label6.Location = New System.Drawing.Point(3, 120)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(222, 14)
+        Me.Label6.Size = New System.Drawing.Size(221, 14)
         Me.Label6.TabIndex = 20
         Me.Label6.Text = "Part Number"
         '
@@ -320,7 +320,7 @@ Partial Class Main
         Me.Label7.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label7.Location = New System.Drawing.Point(3, 180)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(222, 14)
+        Me.Label7.Size = New System.Drawing.Size(221, 14)
         Me.Label7.TabIndex = 21
         Me.Label7.Text = "Part Number"
         '
@@ -348,7 +348,7 @@ Partial Class Main
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.95307!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 6.046931!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.95307!))
-        Me.TableLayoutPanel1.Size = New System.Drawing.Size(228, 247)
+        Me.TableLayoutPanel1.Size = New System.Drawing.Size(227, 247)
         Me.TableLayoutPanel1.TabIndex = 22
         '
         'TableLayoutPanel2
@@ -467,7 +467,7 @@ Partial Class Main
         Me.TableLayoutPanel7.ColumnCount = 3
         Me.TableLayoutPanel7.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 23.5514!))
         Me.TableLayoutPanel7.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 76.4486!))
-        Me.TableLayoutPanel7.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 227.0!))
+        Me.TableLayoutPanel7.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 228.0!))
         Me.TableLayoutPanel7.Controls.Add(Me.TableLayoutPanel11, 1, 0)
         Me.TableLayoutPanel7.Controls.Add(Me.TableLayoutPanel10, 0, 0)
         Me.TableLayoutPanel7.Controls.Add(Me.TableLayoutPanel8, 2, 0)
@@ -486,7 +486,7 @@ Partial Class Main
         Me.TableLayoutPanel11.Controls.Add(Me.TableLayoutPanel2, 0, 0)
         Me.TableLayoutPanel11.Controls.Add(Me.Panel2, 0, 1)
         Me.TableLayoutPanel11.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.TableLayoutPanel11.Location = New System.Drawing.Point(243, 3)
+        Me.TableLayoutPanel11.Location = New System.Drawing.Point(242, 3)
         Me.TableLayoutPanel11.Name = "TableLayoutPanel11"
         Me.TableLayoutPanel11.RowCount = 2
         Me.TableLayoutPanel11.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 80.0!))
@@ -558,7 +558,7 @@ Partial Class Main
         Me.TableLayoutPanel10.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 86.66666!))
         Me.TableLayoutPanel10.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 13.33333!))
         Me.TableLayoutPanel10.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 146.0!))
-        Me.TableLayoutPanel10.Size = New System.Drawing.Size(234, 439)
+        Me.TableLayoutPanel10.Size = New System.Drawing.Size(233, 439)
         Me.TableLayoutPanel10.TabIndex = 28
         '
         'Label8
@@ -568,7 +568,7 @@ Partial Class Main
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.Location = New System.Drawing.Point(3, 253)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(228, 39)
+        Me.Label8.Size = New System.Drawing.Size(227, 39)
         Me.Label8.TabIndex = 23
         Me.Label8.Text = "Referinta"
         '
@@ -579,7 +579,7 @@ Partial Class Main
         Me.ComboBox1.Items.AddRange(New Object() {"28624938"})
         Me.ComboBox1.Location = New System.Drawing.Point(3, 295)
         Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(228, 32)
+        Me.ComboBox1.Size = New System.Drawing.Size(227, 32)
         Me.ComboBox1.TabIndex = 24
         Me.ComboBox1.Text = "28624938"
         '
@@ -591,13 +591,13 @@ Partial Class Main
         Me.TableLayoutPanel8.Controls.Add(Me.TableLayoutPanel9, 0, 0)
         Me.TableLayoutPanel8.Controls.Add(Me.Button4, 0, 1)
         Me.TableLayoutPanel8.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.TableLayoutPanel8.Location = New System.Drawing.Point(1022, 3)
+        Me.TableLayoutPanel8.Location = New System.Drawing.Point(1021, 3)
         Me.TableLayoutPanel8.Name = "TableLayoutPanel8"
         Me.TableLayoutPanel8.RowCount = 3
         Me.TableLayoutPanel8.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.02278!))
         Me.TableLayoutPanel8.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 38.26879!))
         Me.TableLayoutPanel8.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 51.57658!))
-        Me.TableLayoutPanel8.Size = New System.Drawing.Size(222, 439)
+        Me.TableLayoutPanel8.Size = New System.Drawing.Size(223, 439)
         Me.TableLayoutPanel8.TabIndex = 29
         '
         'TableLayoutPanel9
@@ -616,7 +616,7 @@ Partial Class Main
         Me.TableLayoutPanel9.Name = "TableLayoutPanel9"
         Me.TableLayoutPanel9.RowCount = 1
         Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
-        Me.TableLayoutPanel9.Size = New System.Drawing.Size(216, 38)
+        Me.TableLayoutPanel9.Size = New System.Drawing.Size(217, 38)
         Me.TableLayoutPanel9.TabIndex = 30
         '
         'Main

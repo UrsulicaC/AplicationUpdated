@@ -300,6 +300,8 @@ Public Class OracleConn
         'Dim Stat As Integer 'value returned by database
         ' VALIDATION_OP (Buffer, Stat)
         'declare parameters
+
+        'Add description for procedure
         Oracle_CMD = New OracleCommand()
 
         'declare the stored procedure
