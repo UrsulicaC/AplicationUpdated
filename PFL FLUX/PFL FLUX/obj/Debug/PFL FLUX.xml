@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PFL FLUX
+</name>
+</assembly>
+<members>
+<member name="T:PFL_FLUX.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PFL_FLUX.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PFL_FLUX.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PFL_FLUX.My.Resources.Resources.Capture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PFL_FLUX.My.Resources.Resources.logo_PFL_Antralux_mare">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:PFL_FLUX.OracleConn.Oracle_Connexion(System.Boolean)">
+ <summary>
+ Oracle connextion function. 
+ </summary>
+ <param name="Return_Value">with or without function return. True: return error connexion value / False: connexion error manages by function</param>
+ <returns>value return after connextion</returns>
+ <remarks>return "ok" if connected or error string if issue</remarks>
+</member>
+<member name="M:PFL_FLUX.OracleConn.Oracle_Error(System.Int32,System.String)">
+ <summary>
+ Return description of error number
+ </summary>
+ <param name="err">error number returned by database</param>
+ <param name="op">operation ongoing => C:ctrl suivi gamme  |  V:validation_op</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PFL_FLUX.OracleConn.SQLquery(System.String,System.Data.DataSet@)">
+ <summary>
+ Function to send a SQL query to Oracle Database
+ </summary>
+ <param name="sql">SQL query</param>
+ <remarks>this function returns an Oracle datareader</remarks>
+</member>
+<member name="M:PFL_FLUX.OracleConn.SP_Flow_Control(System.String,System.Int32,System.String)">
+ <summary>
+ Flow Control Procedure
+ </summary>
+ <param name="DM_nb">Damatrix number</param>
+ <param name="OP_nb">operation number</param>
+ <param name="REF_nb">reference of pump</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:PFL_FLUX.Settings.NewMethod">
+ <summary>
+ Read values from Ini file
+ </summary>
+</member>
+<member name="M:PFL_FLUX.Settings2.NewMethod">
+ <summary>
+ Read values from Ini file
+ </summary>
+</member>
+</members>
+</doc>

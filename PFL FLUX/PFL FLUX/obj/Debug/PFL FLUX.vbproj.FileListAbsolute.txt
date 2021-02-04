@@ -1,0 +1,147 @@
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe.config
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.pdb
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.xml
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbprojAssemblyReference.cache
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Resources.resources
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.GenerateResource.cache
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CoreCompileInputs.cache
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.exe
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.xml
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.pdb
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Main.resources
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.InitApp.resources
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings.resources
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\S7.Net.dll
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CopyComplete
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.PLCactive.resources
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.RTS.resources
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.CVII.resources
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\PFL Flux\PFL FLUX\PFL FLUX\bin\Debug\OracleConn.vb
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbprojAssemblyReference.cache
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.CVII.resources
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.PLCactive.resources
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.InitApp.resources
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Main.resources
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Resources.resources
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.RTS.resources
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings.resources
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.GenerateResource.cache
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CoreCompileInputs.cache
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.pdb
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\OracleConn.vb
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe.config
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.pdb
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\Oracle.DataAccess.dll
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\S7.Net.dll
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\fz8dqv\Desktop\PFL Flux - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CopyComplete
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\OracleConn.vb
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe.config
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.pdb
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\S7.Net.dll
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbprojAssemblyReference.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.CVII.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.PLCactive.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.InitApp.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Main.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Resources.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.RTS.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.GenerateResource.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CoreCompileInputs.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CopyComplete
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 20 Oct 2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.pdb
+D:\PFL Flux\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings2.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\OracleConn.vb
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe.config
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.pdb
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\S7.Net.dll
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbprojAssemblyReference.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.CVII.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.PLCactive.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.InitApp.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Main.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Resources.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.RTS.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings2.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.GenerateResource.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CoreCompileInputs.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CopyComplete
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.pdb
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020\PFL FLUX\PFL FLUX\bin\Debug\Oracle.DataAccess.dll
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\OracleConn.vb
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe.config
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.pdb
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\Oracle.DataAccess.dll
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\S7.Net.dll
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbprojAssemblyReference.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.CVII.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.PLCactive.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.InitApp.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Main.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Resources.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.RTS.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings2.resources
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.GenerateResource.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CoreCompileInputs.cache
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CopyComplete
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\Low Volume Line\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.pdb
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\OracleConn.vb
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe.config
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.pdb
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\Oracle.DataAccess.dll
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\S7.Net.dll
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbprojAssemblyReference.cache
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.CVII.resources
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.PLCactive.resources
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.InitApp.resources
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Main.resources
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Resources.resources
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.RTS.resources
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings.resources
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL_FLUX.Settings2.resources
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.GenerateResource.cache
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CoreCompileInputs.cache
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.vbproj.CopyComplete
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.exe
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.xml
+C:\Users\fz8dqv\Desktop\PFL Flux 22oct2020 - Copy\PFL FLUX\PFL FLUX\obj\Debug\PFL FLUX.pdb
